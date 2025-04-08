@@ -1,0 +1,9 @@
+2025-04-08 01:40:42.984824 - Received CBT.V508.FILE098.PDS from FILE098.XMI 
+2025-04-08 01:40:42.988170 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE098.PDS, moved to PDS/$$$#DATE
+2025-04-08 01:40:42.989955 - Found $$$PROSE.txt (text/plain) in CBT.V508.FILE098.PDS, moved to PDS/$$$PROSE
+2025-04-08 01:40:42.991393 - Found $$DOC.txt (text/plain) in CBT.V508.FILE098.PDS, moved to PDS/$$DOC
+2025-04-08 01:40:42.992846 - Found @FILE098.txt (text/plain) in CBT.V508.FILE098.PDS, moved to PDS/@FILE098
+2025-04-08 01:40:42.994811 - Found CLISTS.txt (text/plain) in CBT.V508.FILE098.PDS, moved to PDS/CLISTS
+2025-04-08 01:40:42.996250 - Found DATA.txt (text/plain) in CBT.V508.FILE098.PDS, moved to PDS/DATA
+2025-04-08 01:40:42.998116 - Found PANELS.txt (text/plain) in CBT.V508.FILE098.PDS, moved to PDS/PANELS
+2025-04-08 01:40:43.000416 - Found SKELETON.txt (text/plain) in CBT.V508.FILE098.PDS, moved to PDS/SKELETON
